@@ -1,0 +1,24 @@
+body
+{
+color:blueviolet;
+background:blanchedalmond;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy
+{
+    color:cornflowerblue;
+}
+
+#Camera
+{
+    border:2px dashed black;
+    width:353px;
+    height:300px;
+    
+}
